@@ -79,9 +79,9 @@ nav a:hover {
 }
 
 @keyframes slideImages {
-    0%, 33% { background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('images/hero-bg.jpg'); }
-    34%, 66% { background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('images/11b4d6b10df7a7755fd0a5069bbd8e36.jpg'); }
-    67%, 100% { background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('images/9fd761b4aadad1177debacbc6e6ea2d8.jpg'); }
+    0%, 33% { background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/hero-bg.jpg'); }
+    34%, 66% { background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/11b4d6b10df7a7755fd0a5069bbd8e36.jpg'); }
+    67%, 100% { background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/9fd761b4aadad1177debacbc6e6ea2d8.jpg'); }
 }
 
 .hero h1 {
